@@ -10,3 +10,6 @@
 
 #### grid Edit
 - http://www.editablegrid.net/en/
+
+#### ETC ref
+- http://play.grafana.org/?from=1486387061999&to=1486389944110
